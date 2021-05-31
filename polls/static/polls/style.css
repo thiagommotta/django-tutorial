@@ -1,0 +1,8 @@
+li a {
+    color: orangered;
+}
+
+body {
+    background: #ffe7d3 url("images/background.gif") no-repeat;
+    object-fit: scale-down;
+}
